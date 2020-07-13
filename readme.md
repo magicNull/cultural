@@ -10,26 +10,32 @@
 
 ## 网站的使用
 ```
-git clone 
+git clone git@github.com:magicNull/cultural.git
 npm install
 composer install
 更改 .env 里的配置为本地配置，使用前请确认php满足Laravel 5.7 的基本模块 和 安装 php-GD
 ```
 ## 网站技能点
 ```
-vue;Lareval;mysql
+vue;Lareval;mysql;less;sass
 ```
 ## 网站样子
-### 网站基本界面
+<https://github.com/magicNull/Hello/tree/master/file>
+### 网站基本导航
  - 首页
  - 物质文化遗产
  - 非物质文化遗产
  - 新闻
  - 文章详情页
  - 个人信息页
-### 网站管理员
+### 网站管理页导航
  - 用户管理
  - 文化遗产管理
  - 新闻管理
  - 文章详情页
  - 用户详情页
+ ### 操作导航
+ - 登录页
+ - 注册
+ - 忘记密码
+ - 重置密码
