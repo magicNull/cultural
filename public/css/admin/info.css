@@ -1,0 +1,84 @@
+#newSelect {
+  padding-top: 10px;
+}
+
+.group .item img {
+  width: 200px;
+  height: auto;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.info {
+  width: 100%;
+  height: calc(100vh - 53px);
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(212, 237, 218, 0.5)), to(transparent));
+  background-image: linear-gradient(to top, rgba(212, 237, 218, 0.5), transparent);
+}
+
+.info > .info-box {
+  width: 50%;
+  background-color: #fff;
+  position: relative;
+  box-shadow: 5px 3px 15px 1px #808080;
+}
+
+.info > .info-box .img {
+  position: absolute;
+  top: -100px;
+  left: calc((100% - 200px )/ 2);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  background-image: radial-gradient(transparent, rgba(0, 191, 255, 0.2) 60%, transparent 80%);
+  overflow: hidden;
+}
+
+.info > .info-box .img > img {
+  display: block;
+  width: 200px;
+  padding: 20px;
+  height: 200px;
+  border-radius: 50%;
+  max-height: 190px;
+}
+
+.info .info-content {
+  margin-top: 100px;
+}
+
+.info .imgH {
+  display: none;
+}
+
+.info .getImg {
+  display: -webkit-box;
+  display: flex;
+  justify-content: space-around;
+  -webkit-box-align: center;
+          align-items: center;
+  color: rebeccapurple;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(212, 237, 218, 0.5)), to(transparent));
+  background-image: linear-gradient(to top, rgba(212, 237, 218, 0.5), transparent);
+}
+
+.info .getImg > div:nth-of-type(2) {
+  font-size: 50px;
+}
+
+.info .getImg img {
+  width: 100px;
+  min-height: 100px;
+  max-height: 110px;
+  padding: 5px;
+  border-radius: 50%;
+}
+

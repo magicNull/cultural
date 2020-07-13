@@ -1,0 +1,56 @@
+@import '../variables';
+
+.new {
+  margin-top: 30px;
+  height: 1000px;
+  overflow: scroll;
+
+  > div:first-of-type {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    > div {
+      input {
+        width: 100%;
+      }
+    }
+  }
+
+  > div:last-of-type {
+    margin-top: 20px;
+  }
+
+  .title {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 20px;
+    margin: 20px 0;
+    > h2 {
+      text-align: center;
+    }
+
+    > div:first-of-type {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      span{
+        color: #1d68a7;
+        font-weight: 600;
+      }
+    }
+
+  }
+  .content{
+    padding: 5px;
+  }
+}
+
+#wangeditor{
+  margin-bottom: 20px;
+  .w-e-text-container{
+    min-height: 500px;
+  }
+}
+.video{
+  display: none;
+}

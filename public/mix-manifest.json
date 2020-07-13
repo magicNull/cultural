@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/login.css": "/css/login.css",
+    "/css/admin.css": "/css/admin.css",
+    "/css/admin/new.css": "/css/admin/new.css",
+    "/css/admin/NewSelect.css": "/css/admin/NewSelect.css",
+    "/css/admin/info.css": "/css/admin/info.css",
+    "/js/bootstrapApp.js": "/js/bootstrapApp.js"
+}
