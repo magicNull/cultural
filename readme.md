@@ -29,6 +29,7 @@ vue;Lareval;mysql;less;sass
  - 新闻
  - 文章详情页
  - 个人信息页
+ - 搜索页
 ### 网站管理页导航
 <https://github.com/magicNull/Hello/tree/master/file/%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E9%A1%B5%E5%AF%BC%E8%88%AA>
  - 用户管理
@@ -36,7 +37,8 @@ vue;Lareval;mysql;less;sass
  - 新闻管理
  - 文章详情页
  - 用户详情页
- ### 操作导航
+ - 搜索页
+ ### 用户操作导航
  <https://github.com/magicNull/Hello/tree/master/file/%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E5%AF%BC%E8%88%AA>
  - 登录页
  - 注册
