@@ -19,9 +19,10 @@ composer install
 ```
 vue;Lareval;mysql;less;sass
 ```
-## 网站样子
+## 网站样子(预防打不开在线网站)
 <https://github.com/magicNull/Hello/tree/master/file>
 ### 网站基本导航
+<https://github.com/magicNull/Hello/tree/master/file/%E7%BD%91%E7%AB%99%E5%9F%BA%E6%9C%AC%E5%AF%BC%E8%88%AA>
  - 首页
  - 物质文化遗产
  - 非物质文化遗产
@@ -29,12 +30,14 @@ vue;Lareval;mysql;less;sass
  - 文章详情页
  - 个人信息页
 ### 网站管理页导航
+<https://github.com/magicNull/Hello/tree/master/file/%E7%BD%91%E7%AB%99%E7%AE%A1%E7%90%86%E9%A1%B5%E5%AF%BC%E8%88%AA>
  - 用户管理
  - 文化遗产管理
  - 新闻管理
  - 文章详情页
  - 用户详情页
  ### 操作导航
+ <https://github.com/magicNull/Hello/tree/master/file/%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E5%AF%BC%E8%88%AA>
  - 登录页
  - 注册
  - 忘记密码
